@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.dr8.xposed.tuneincar"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionCode="101"
+    android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="14"
@@ -20,7 +20,7 @@
             android:value="2.0*" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Mod to launch CarMode in TuneIn from start" />
+            android:value="Mod to launch Car Mode in TuneIn Radio automatically" />
     </application>
 
 </manifest>
