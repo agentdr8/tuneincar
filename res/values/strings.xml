@@ -1,5 +1,6 @@
 <resources>
 
     <string name="app_name">TuneInCar</string>
-
+	<string name="pref_list_summary">Pick the starting screen in Car Mode</string>
+	<string name="pref_list_title">Default Screen</string>
 </resources>

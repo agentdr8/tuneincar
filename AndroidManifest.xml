@@ -21,6 +21,12 @@
         <meta-data
             android:name="xposeddescription"
             android:value="Mod to launch Car Mode in TuneIn Radio automatically" />
+        <activity android:name="PrefsActivity">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.MAIN"/>
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
